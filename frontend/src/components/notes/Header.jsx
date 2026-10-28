@@ -1,8 +1,8 @@
 import { Plus } from "lucide-react";
 
-import PrimaryButton from "../Notes/PrimaryButton";
+import PrimaryButton from "../notes/PrimaryButton";
 import Logo from "./Logo";
-import ThemeToggle from "../UI/ThemeToggle";
+import ThemeToggle from "../ui/ThemeToggle";
 
 const Header = () => {
   return (

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import ThemeToggle from "../components/UI/ThemeToggle";
+import ThemeToggle from "../components/ui/ThemeToggle";
 
 const HomePage = () => {
   return (

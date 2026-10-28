@@ -2,7 +2,7 @@ import { SquarePenIcon, Trash } from "lucide-react";
 import { Link, useLoaderData, useRevalidator } from "react-router-dom";
 import toast from "react-hot-toast";
 
-import Container from "../UI/Container";
+import Container from "../ui/Container";
 import { deleteNote } from "../api/client";
 
 const NoteCard = () => {
